@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/pos-javaweb-turma2022.iml" filepath="$PROJECT_DIR$/.idea/pos-javaweb-turma2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pos-javaweb-turma2022/pos-web.iml" filepath="$PROJECT_DIR$/pos-javaweb-turma2022/pos-web.iml" />
+    </modules>
+  </component>
+</project>
